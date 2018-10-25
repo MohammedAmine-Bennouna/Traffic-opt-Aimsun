@@ -1,0 +1,1 @@
+"C:\Program Files\TSS-Transport Simulation Systems\Aimsun 8.2\aconsole" --script "D:\2A\PSC\Code_Python_v3\AimsunModule.py" "D:\2A\PSC\Code_Python_v3\network.ang" "3211"
